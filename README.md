@@ -1,32 +1,47 @@
-# 🌌 Anime Technique Spin‑The‑Wheel
-A fully interactive web app that generates **Cursed Techniques**, **Domain Expansions**, **Combo Attacks**, and **Beyond Ultra‑Instinct Forms** with a stylish Gen‑Z aesthetic.  
-Built using **HTML + CSS + JavaScript** and deployed with **GitHub Pages**.
+# 🌌 Anime Technique Spin‑The‑Wheel (React + Vite + TypeScript)
+
+A fully interactive anime‑themed web app that lets users spin a wheel to generate:
+
+- Cursed Techniques  
+- Domain Expansions  
+- Dual‑Character Combos  
+- Beyond Ultra‑Instinct / Extinct Forms  
+- User‑chosen anime techniques  
+- Character images + rarity tiers  
+- Typewriter animations, SFX, confetti and neon UI  
+
+Built with **React (TypeScript)** and powered by **Vite** for fast performance.
 
 ---
 
 ## ✨ Features
-- 🎡 Spin‑the‑wheel animation with physics effect  
-- 🔮 Four tabs:  
-  - **Cursed Technique**  
-  - **Domain Expansion**  
-  - **Both (Dual Pull)**  
-  - **Any Anime (User Input + Random Mode)**  
-- 👤 Name input screen that personalizes the experience  
-- 💥 Combo attacks when dual‑pulling two techniques  
-- ⚡ “Same Character Combo” names like **Dual Fate**  
-- 🔥 “Beyond Ultra‑Instinct Tier” transformation names  
-- 🎭 Character images in results  
-- 🎶 SFX + Confetti + Glow animations  
-- 📱 Fully responsive for phones & desktops  
+
+- 🎡 **Spin‑The‑Wheel** with physics animation  
+- 🔮 **Four selectable modes**  
+  - Cursed Technique  
+  - Domain Expansion  
+  - Both (Dual Pull)  
+  - Any Anime (user input + random mode)  
+- 👤 **Name personalization screen**  
+- 🔥 **Combo attack generation**  
+  - Same character combo name (e.g., *Dual Fate*)  
+  - Different‑character combo names  
+- ⚡ **Beyond Ultra‑Instinct Tier** transformations (e.g., *Forgotten Apex Form*)  
+- 🖼️ Character image rendering  
+- 🎶 Sound effects + confetti  
+- 📱 Fully responsive neon UI  
 
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5**  
-- **CSS3** (Neon UI + Dark Mode)  
-- **JavaScript (Vanilla)**  
-- **GitHub Pages** for free hosting  
+
+- **React 18**
+- **TypeScript**
+- **Vite**
+- **CSS3**
+- **GitHub Pages** (for deployment)
+- **LocalStorage** (for user data and recent pulls)
 
 ---
 
-## 📂 Folder Structure
+## 📁 Project Structure
